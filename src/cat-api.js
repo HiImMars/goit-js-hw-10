@@ -1,3 +1,8 @@
+// import axios from 'axios';
+
+// axios.defaults.headers.common['x-api-key'] =
+//   'live_PvvHSPLmP62YQ4mUBrXod4lCdUppezscIzx44nDBQgdj8RVXF1YPXHwVQ5lLL9MU';
+
 const BASE_URL = 'https://api.thecatapi.com/v1';
 const END_POINT = '/breeds';
 const CAT_INFO = '/images/search';
